@@ -1,0 +1,2 @@
+# myFirstRepo
+Exercise from udemy
